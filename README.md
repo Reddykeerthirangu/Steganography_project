@@ -207,3 +207,12 @@ This project demonstrates the practical implementation of image steganography us
 It provides hands-on experience with low-level data manipulation and the fundamental concepts of information hiding.
 
 **Steganography — Hide • Protect • Communicate**
+
+## 👨‍💻 Author
+
+** RAGNGU REDDY KEERTHI **
+
+- GitHub: https://github.com/Reddykeerthirangu
+- LinkedIn: https://www.linkedin.com/in/reddy-keerthi-rangu-997360373/
+
+Developed as part of my C programming learning journey to explore image steganography, file handling, and bitwise operations.
